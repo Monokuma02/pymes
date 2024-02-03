@@ -235,7 +235,7 @@ header.sticky{
 }
 
 .courses-content{
-	display: flex;
+	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(400px, auto));
 	gap: 2rem;
 	align-items: center;
